@@ -1,0 +1,5 @@
+bib/*
+bib
+*.R
+*.tar.gz
+src/*.txt
