@@ -1,6 +1,7 @@
 bib/*
 bib
 img/
+img/*.eps
 *.R
 *.tar.gz
 src/*.txt
